@@ -31,3 +31,11 @@ $ About page explains a bit about this simpe web App.
 
 $ api page will show you the tickers and the barchart required for this proejct.
 ```
+
+# challenges & trade-offs
+
+```bash
+$ had some problems with setting the bar chart data. but managed to solve it quickly.
+
+$ I loved how the routs are pre set by nuxt when you setup the page.
+```

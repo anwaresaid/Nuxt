@@ -9,12 +9,15 @@ export default {
         label:{
             type:String
         },
+        //variable to save first set of data
         chartData:{
             type: Array
         },
+        //variable to save second set of data
          chartData2:{
             type: Array
         },
+        //barchar options
         options:{
             type:Object
             }
