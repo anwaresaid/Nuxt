@@ -1,4 +1,4 @@
-# Hello, this is my nuxt simple app
+# Hello, this is my nuxt simple appJs
 
 ## Build Setup
 
@@ -17,8 +17,17 @@ $ npm run start
 $ npm run generate
 ```
 
-# to change the page to the barchart page
+# details about pages
 
 ```bash
-$ click on tickers and you will be routed to the barChart page
+$ on the header you have 3 options for navigation:
+- Home.
+- about.
+- tickers.
+
+$ Home page has a welcome messsage for the user.
+
+$ About page explains a bit about this simpe web App.
+
+$ api page will show you the tickers and the barchart required for this proejct.
 ```
