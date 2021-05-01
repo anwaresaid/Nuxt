@@ -1,4 +1,5 @@
 <template>
+<!-- header component to be displayed on all pages it has the navigation bar  -->
     <div class="header">
         <h1 class="title"> Tickers Bar Chart</h1>
         <ul>
